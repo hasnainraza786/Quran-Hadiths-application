@@ -1,6 +1,3 @@
-Certainly, writing a clear and informative README for your GitHub project is important for helping potential users and collaborators understand your project. Below is a sample README description for your Quran and Hadiths application created in Windows Form using C#:
-
----
 
 # Quran and Hadiths Application
 
